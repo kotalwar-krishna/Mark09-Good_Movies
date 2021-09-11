@@ -2,3 +2,25 @@
   font-family: sans-serif;
   text-align: center;
 }
+body {
+  background-color: grey;
+  color: white;
+}
+
+li {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  width: 70%;
+  margin: 1rem 0rem;
+  border-radius: 0.5rem;
+}
+
+.btn-style {
+  cursor: pointer;
+  background: #e5e7eb;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  margin: 1rem 0.3rem;
+}
