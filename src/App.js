@@ -32,6 +32,7 @@ export default function App() {
       <p style={{ fontSize: "smaller" }}>
         Checkout my favorite Movies. Select a list to get started
       </p>
+      <div></div>
 
       <div>
         {Object.keys(movieDb).map((genre) => (
